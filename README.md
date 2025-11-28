@@ -22,7 +22,7 @@ Il est conçu pour être **intégré facilement dans n’importe quel projet Dja
 - Stockage des refresh tokens hashés en base
 - Endpoint sécurisé pour renouveler les tokens (`refresh`)
 - Déconnexion avec invalidation du token
-- Documentation Swagger disponible à l’adresse :
+- Documentation Swagger disponible à l’adresse : /api/docs/
 
 
 ---
